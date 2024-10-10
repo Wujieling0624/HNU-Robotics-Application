@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sustech-application.github.io/2019-Fall">
-    <img alt="docsify" src="src/_media/SUSTech_University_Logo.png" height="200">
+    <img alt="docsify" src="src/_media/11.png" height="200">
   </a>
 </p>
 
@@ -15,4 +15,4 @@
 [GitHub](https://github.com/Roundly/HNU-Robotics-Application)
 [Get Started](#湖大机器人学院手册)
 
-![](src/_media/bg.jpeg)
+![](src/_media/bg1.jpg)
