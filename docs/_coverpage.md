@@ -6,7 +6,6 @@
 
 > <middle>湖大机器人学院基本手册</middle> <small>2024-Fall</small>
 
-<!-- > SUSTech Application Wiki <small>2019-Fall</small> -->
 
 - For Robot <small>2024-Fall</small>
 
