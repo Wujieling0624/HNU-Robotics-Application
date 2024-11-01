@@ -1,29 +1,9 @@
-## 化学
-
-#### PhD Programs:
+#20级
 
 - [郭宇欣](保研经验分享/20级/郭宇欣.md)
 
-#### Master Programs:
+- [谢豪杰](保研经验分享/20级/谢豪杰.md)
 
-To be continued.
+- [邹正宇](保研经验分享/20级/邹正宇.md)
 
-##### 联培：
-
-To be continued.
-
-##### 直博：
-
-To be continued.
-
-##### 保研：
-
-To be continued.
-
-##### 考研：
-
-To be continued.
-
-##### 就业：
-
-To be continued.
+- [白萧寒](保研经验分享/20级/白萧寒.md)
