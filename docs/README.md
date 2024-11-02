@@ -34,6 +34,8 @@
 
 ### 如何分享经验？
 
+目前20级和21级均有负责人，请大家讲写好的markdown文件交给对应负责人即可。20级：郭宇欣；21级：吴洁铃
+
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`markdown`文件发送到对应的负责人，我们会帮助你提交。(markdown的模板参考doc路径下的template)
 
 2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/Roundly/HNU-Robotics-Application/tree/master/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。
